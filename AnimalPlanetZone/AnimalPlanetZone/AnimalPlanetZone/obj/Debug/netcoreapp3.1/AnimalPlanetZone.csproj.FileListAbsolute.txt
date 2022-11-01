@@ -1,0 +1,117 @@
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.exe
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.deps.json
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.json
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.dev.json
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.csprojAssemblyReference.cache
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.Manifest.cache
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.xml
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfoInputs.cache
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfo.cs
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.RazorTargetAssemblyInfo.cache
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+C:\Users\MaseMB\source\repos\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.exe
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.deps.json
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.json
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.dev.json
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.csprojAssemblyReference.cache
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.Manifest.cache
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.xml
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfo.cs
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.RazorTargetAssemblyInfo.cache
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+C:\Users\Student\Documents\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.json
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\libman.json
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.exe
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.deps.json
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.json
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.dev.json
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.csprojAssemblyReference.cache
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.Manifest.cache
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.xml
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.MvcApplicationPartsAssemblyInfo.cache
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfoInputs.cache
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfo.cs
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.RazorTargetAssemblyInfo.cache
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+G:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\libman.json
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.exe
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.deps.json
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.json
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.dev.json
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.csprojAssemblyReference.cache
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.Manifest.cache
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.xml
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.MvcApplicationPartsAssemblyInfo.cache
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfoInputs.cache
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfo.cs
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.RazorTargetAssemblyInfo.cache
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+D:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.json
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\libman.json
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.exe
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.deps.json
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.json
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.dev.json
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.csprojAssemblyReference.cache
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.Manifest.cache
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.xml
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.MvcApplicationPartsAssemblyInfo.cache
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfoInputs.cache
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfo.cs
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.RazorTargetAssemblyInfo.cache
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+F:\CSIQ3734\pract Activity3\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.exe
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.deps.json
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.json
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.runtimeconfig.dev.json
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\bin\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.csproj.AssemblyReference.cache
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfoInputs.cache
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.AssemblyInfo.cs
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.csproj.CoreCompileInputs.cache
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.Manifest.cache
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\staticwebassets\AnimalPlanetZone.StaticWebAssets.xml
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\scopedcss\bundle\AnimalPlanetZone.styles.css
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.RazorTargetAssemblyInfo.cache
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.dll
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.pdb
+C:\Users\Andile\Desktop\2016377935_MkhasibeFA\AnimalPlanetZone\AnimalPlanetZone\AnimalPlanetZone\obj\Debug\netcoreapp3.1\AnimalPlanetZone.genruntimeconfig.cache
